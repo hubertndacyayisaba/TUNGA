@@ -1,0 +1,26 @@
+body{
+background-image: url(home.jpg);
+}
+.nav{
+	color: yellow;
+	justify-content: space-between;
+	background-color: grey;
+	color: yellow;
+	margin: 10px;
+}
+.naviga{
+	padding-left: 700px;
+	justify-content: space-between;
+	/*padding: 10px;
+	margin-right: 300px;*/
+}
+.img{
+	padding-top: 120px;
+	height: 20px;
+}
+.investement{
+	padding-left: 900px;
+	padding-top: 200px;
+	font-size: 13px;
+	font-family: verdana;
+}
